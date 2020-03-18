@@ -1,0 +1,10 @@
+{
+  "name": "canvas-painting",
+  "version": "0.1.0",
+  "description": "canvas-painting is a base web component with a set of methods available that go straight on the point on creating reusable canvas illustrations.",
+  "main": "src/index.js",
+  "repository": "https://github.com/FelixLuciano/canvas-painting.git",
+  "author": "Luciano Felix Dias <luciano.felix.555@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}

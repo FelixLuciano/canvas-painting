@@ -1,0 +1,6 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512">
+  <rect fill="#111" width="1024" height="512"></rect>
+  <rect fill="#FFF" width="512" height="256" style="animation: a .2s step-end infinite"></rect>
+  <style>@keyframes a{0%{x:10;y:12}10%{x:15;y:11}20%{x:13;y:12}30%{x:12;y:15}40%{x:10;y:15}50%{x:15;y:13}60%{x:10;y:11}70%{x:15;y:11}80%{x:15;y:11}90%{x:12;y:13}to{x:15;y:12}}</style>
+</svg>
