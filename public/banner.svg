@@ -2,5 +2,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512">
   <rect fill="#111" width="1024" height="512"></rect>
   <rect fill="#FFF" width="512" height="256" style="animation: a .2s step-end infinite"></rect>
-  <style>@keyframes a{0%{x:10;y:12}10%{x:15;y:11}20%{x:13;y:12}30%{x:12;y:15}40%{x:10;y:15}50%{x:15;y:13}60%{x:10;y:11}70%{x:15;y:11}80%{x:15;y:11}90%{x:12;y:13}to{x:15;y:12}}</style>
+  <style>@keyframes a{0%{x:10px;y:12px}10%{x:15px;y:11px}20%{x:13px;y:12px}30%{x:12px;y:15px}40%{x:10px;y:15px}50%{x:15px;y:13px}60%{x:10px;y:11px}70%{x:15px;y:11px}80%{x:15px;y:11px}90%{x:12px;y:13px}to{x:15px;y:12px}}</style>
 </svg>
