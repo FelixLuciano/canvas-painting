@@ -1,6 +1,5 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="512">
-  <rect fill="#111" width="1024" height="512"></rect>
-  <rect fill="#FFF" width="512" height="256" x='15' y='15' style="transform:translate(var(--x),var(--y));animation:a .2s step-end infinite"></rect>
-  <style>@keyframes a{0%{--x:0;--y:3px}10%{--x:3px;--y:-2px}20%{--x:3px;--y:2px}30%{--x:-2px;--y:0}40%{--x:3px;--y:1px}50%{--x:-3px;--y:-4px}60%{--x:1px;--y:-4px}70%{--x:-4px;--y:-3px}80%{--x:2px;--y:-1px}90%{--x:4px;--y:-2px}to{--x:-4px;--y:1px}}</style>
+  <path fill="#111" d="M0 0H1024V512H0z"/>
+  <path fill="#FFF" d="M15 15H527V271H15z" style="transform:translate(var(--x),var(--y));animation:a .2s step-end infinite"/>
+  <style>@keyframes a{0%{--x:0;--y:3px}10%{--x:3px;--y:-2px}20%{--x:3px;--y:2px}30%{--x:-2px;--y:0}40%{--x:3px;--y:1px}50%{--x:-3px;--y:-4px}60%{--x:1px;--y:-4px}70%{--x:-4px;--y:-3px}80%{--x:2px;--y:-1px}90%{--x:4px;--y:-2px}}</style>
 </svg>
