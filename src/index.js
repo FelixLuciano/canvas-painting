@@ -122,4 +122,4 @@ class CanvasPainting extends HTMLCanvasElement {
   }
 }
 
-module.exports = CanvasPainting
+export default CanvasPainting
